@@ -22,7 +22,7 @@ A simple and user-friendly **Currency Converter** built using **HTML, CSS, and J
 ## 🎯 How to Use  
 1. Enter the amount you want to convert.  
 2. Select the currencies from the dropdown menus. 🔄  
-3. Click the **Convert** button, and see the result instantly! 🎉  
+3. Click the **Get Exchange Rate** button, and see the result instantly! 🎉  
 
 ---
 
